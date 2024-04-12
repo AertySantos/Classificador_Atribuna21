@@ -46,10 +46,6 @@
 
 <p>Este projeto está licenciado sob a <a href="https://opensource.org/licenses/MIT">MIT License</a>.</p>
 
-<hr>
-
-<p>Este é um exemplo básico de como poderia ser o README para o seu algoritmo. Certifique-se de adaptar as seções e informações de acordo com as necessidades específicas do seu projeto.</p>
-
 </body>
 </html>
 
