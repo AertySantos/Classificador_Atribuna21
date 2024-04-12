@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Classificador de Páginas do Jornal A Tribuna e Sentenças Relacionadas ao Termo "Arquivo"</title>
 </head>
 <body>
 
