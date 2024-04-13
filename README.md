@@ -18,24 +18,29 @@
     <li>scikit-learn</li>
     <li>numpy</li>
     <li>pandas</li>
+    <li>spacy</li>
 </ul>
 
 <p>Você pode instalar as dependências usando pip:</p>
 
 <pre><code>pip install scikit-learn numpy pandas
 </code></pre>
-
+<pre><code>pip install spacy
+</code></pre>
+<pre><code>python3 -m spacy download pt_core_news_sm
+</code></pre>
 <h2>Utilização</h2>
 
 <p>O algoritmo é composto por três etapas principais:</p>
 
 <ol>
-    <li><strong>Vetorização das Páginas do Jornal A Tribuna:</strong> As páginas do jornal são convertidas em vetores numéricos, utilizando técnicas como TF-IDF ou CountVectorizer.</li>
+    <li><strong>Vetorização das Páginas do Jornal A Tribuna:</strong> As páginas do jornal são convertidas em vetores numéricos, utilizando técnicas como TF-IDF.</li>
     <li><strong>Classificação utilizando KNN, CBC e WiSARD:</strong> Os vetores das páginas são utilizados para treinar modelos de classificação utilizando os algoritmos KNN (k-nearest neighbors), CBC (Classifier Chain) e WiSARD (Wilkie, Stonham, Aleksander, and Riedmiller), a fim de categorizar as páginas em diferentes classes pré-definidas.</li>
     <li><strong>Classificação de Sentenças Relacionadas ao Termo "Arquivo":</strong> As sentenças relacionadas ao termo "arquivo" são extraídas das páginas classificadas e passam pelo mesmo processo de vetorização e classificação, permitindo a identificação automática de sentenças relevantes.</li>
 </ol>
 
-<p>Para utilizar o algoritmo, basta executar o script <code>main.py</code> e seguir as instruções fornecidas.</p>
+<p>Para utilizar o algoritmo, basta executar o script <code>Makefile</code>. Ele irá baixar as páginas da Atribuna e, em seguida, abrirá uma imagem conforme a seguir, onde você poderá escolher o que deseja fazer.</p>
+<imagem.jpg>
 
 <h2>Contribuição</h2>
 
