@@ -40,7 +40,7 @@
 </ol>
 
 <p>Para utilizar o algoritmo, basta executar o script <code>Makefile</code>. Ele irá baixar as páginas da Atribuna e, em seguida, abrirá uma imagem conforme a seguir, onde você poderá escolher o que deseja fazer.</p>
-<img src="/[imagem.jpg](https://github.com/AertySantos/Classificador_Atribuna21/blob/main/imagem.png)">
+<img src="/main/imagem.png)">
 
 <h2>Contribuição</h2>
 
