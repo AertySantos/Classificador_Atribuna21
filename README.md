@@ -39,7 +39,7 @@
     <li><strong>Classificação de Sentenças Relacionadas ao Termo "Arquivo":</strong> As sentenças relacionadas ao termo "arquivo" são extraídas das páginas classificadas e passam pelo mesmo processo de vetorização e classificação, permitindo a identificação automática de sentenças relevantes.</li>
 </ol>
 
-<p>Para utilizar o algoritmo, basta executar o script <code>Makefile</code>. Ele irá baixar as páginas da Atribuna e, em seguida, abrirá uma imagem conforme a seguir, onde você poderá escolher o que deseja fazer.</p>
+<p>Para utilizar o algoritmo, basta executar o script <code>Makefile</code>. Ele irá baixar as páginas da Atribuna e, em seguida, abrirá um menu conforme a imagem a seguir, onde você poderá escolher o que deseja fazer.</p>
 <img src="imagem.png">
 
 <h2>Contribuição</h2>
