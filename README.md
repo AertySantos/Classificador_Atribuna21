@@ -24,11 +24,11 @@
 <p>Você pode instalar as dependências usando pip:</p>
 
 <pre><code>pip install scikit-learn numpy pandas
-    pip install spacy
 </code></pre>
 <pre><code>pip install spacy
 </code></pre>
-
+<pre><code>python3 -m spacy download pt_core_news_sm
+</code></pre>
 <h2>Utilização</h2>
 
 <p>O algoritmo é composto por três etapas principais:</p>
