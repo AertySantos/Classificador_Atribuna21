@@ -40,7 +40,7 @@
 </ol>
 
 <p>Para utilizar o algoritmo, basta executar o script <code>Makefile</code>. Ele irá baixar as páginas da Atribuna e, em seguida, abrirá uma imagem conforme a seguir, onde você poderá escolher o que deseja fazer.</p>
-<imagem.jpg>
+<img src="/imagem.jpg">
 
 <h2>Contribuição</h2>
 
