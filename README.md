@@ -18,11 +18,15 @@
     <li>scikit-learn</li>
     <li>numpy</li>
     <li>pandas</li>
+    <li>spacy</li>
 </ul>
 
 <p>Você pode instalar as dependências usando pip:</p>
 
 <pre><code>pip install scikit-learn numpy pandas
+    pip install spacy
+</code></pre>
+<pre><code>pip install spacy
 </code></pre>
 
 <h2>Utilização</h2>
