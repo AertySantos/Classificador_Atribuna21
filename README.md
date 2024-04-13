@@ -30,7 +30,7 @@
 <p>O algoritmo é composto por três etapas principais:</p>
 
 <ol>
-    <li><strong>Vetorização das Páginas do Jornal A Tribuna:</strong> As páginas do jornal são convertidas em vetores numéricos, utilizando técnicas como TF-IDF ou CountVectorizer.</li>
+    <li><strong>Vetorização das Páginas do Jornal A Tribuna:</strong> As páginas do jornal são convertidas em vetores numéricos, utilizando técnicas como TF-IDF.</li>
     <li><strong>Classificação utilizando KNN, CBC e WiSARD:</strong> Os vetores das páginas são utilizados para treinar modelos de classificação utilizando os algoritmos KNN (k-nearest neighbors), CBC (Classifier Chain) e WiSARD (Wilkie, Stonham, Aleksander, and Riedmiller), a fim de categorizar as páginas em diferentes classes pré-definidas.</li>
     <li><strong>Classificação de Sentenças Relacionadas ao Termo "Arquivo":</strong> As sentenças relacionadas ao termo "arquivo" são extraídas das páginas classificadas e passam pelo mesmo processo de vetorização e classificação, permitindo a identificação automática de sentenças relevantes.</li>
 </ol>
