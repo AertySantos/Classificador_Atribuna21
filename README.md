@@ -42,13 +42,6 @@
 <p>Para utilizar o algoritmo, basta executar o script <code>Makefile</code>. Ele irá baixar as páginas da Atribuna e, em seguida, abrirá um menu conforme a imagem a seguir, onde você poderá escolher o que deseja fazer.</p>
 <img src="imagem.png">
 
-<h2>Contribuição</h2>
-
-<p>Contribuições são bem-vindas! Se você encontrar algum problema ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.</p>
-
-<h2>Licença</h2>
-
-<p>Este projeto está licenciado sob a <a href="https://opensource.org/licenses/MIT">MIT License</a>.</p>
 
 </body>
 </html>
